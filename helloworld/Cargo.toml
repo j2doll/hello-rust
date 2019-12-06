@@ -2,7 +2,7 @@
 name = "helloworld"
 version = "0.1.0"
 authors = ["Jay Two"]
-edition = "2019"
+edition = "2018" # supported edition values are `2015` or `2018`
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
