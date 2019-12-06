@@ -78,8 +78,5 @@ no_llvm_build
 **/target/
 **/target/*
 
-/helloworld/Cargo.lock
-/helloworld/target/
-/helloworld/target/*
 
 
