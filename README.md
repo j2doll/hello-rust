@@ -1,2 +1,4 @@
 # hello-rust
-Hello, rust!
+- Hello, rust!
+- ```.gitignore``` for rust is updated.
+
