@@ -78,5 +78,12 @@ no_llvm_build
 **/target/
 **/target/*
 
+*.exe
+*.dll
+*.so
+*.lib
+*.a
+
+
 
 
